@@ -1,0 +1,15 @@
+{
+	"name": "obscura",
+	"version": "0.0.1",
+	"description": "Raster and vector image editor for the web",
+	"main": "src/_main.js",
+	"author": "Keavon Chambers",
+	"dependencies": {
+		"element-resize-detector": "^1.1.5",
+		"vue": "^1.0.26"
+	},
+	"devDependencies": {
+		"stylus": "^0.54.5",
+		"vueify": "^8.7.0"
+	}
+}

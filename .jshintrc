@@ -1,0 +1,6 @@
+{
+	"strict": "global",
+	"browser": true,
+	"browserify": true,
+	"devel": true
+}
